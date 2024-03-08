@@ -21,16 +21,16 @@ BERT, ALBERT, and DistilBERT are among the latest advancements in pre-trained la
 
 BERT, introduced by Devlin et al. (2018), revolutionized the field with its bidirectional contextualized embeddings, allowing it to capture deeper semantic understanding. ALBERT, proposed by Lan et al. (2020), builds upon BERT's success by implementing parameter-efficient model architecture improvements, resulting in faster training and smaller memory footprint. DistilBERT, as presented by Sanh et al. (2019), distills BERT's knowledge into a smaller model size by using a teacher-student framework, achieving significant reduction in computational resources while maintaining competitive performance.
 
-![Validation Loss and Accuracy](images/charts/lossandaccuracy.png)
+![Validation Loss and Accuracy](images/Charts/lossandaccuracy.png)
 *Fig. 2: Validation Loss and Accuracy*
 
-![Precision](images/charts/Precision.png)
+![Precision](images/Charts/Precision.png)
 *Fig. 3: Precision*
 
-![Recall](images/charts/Recall.png)
+![Recall](images/Charts/Recall.png)
 *Fig. 4: Recall*
 
-![F1 Score](images/charts/F1Score.png)
+![F1 Score](images/Charts/F1Score.png)
 *Fig. 5: F1 Score*
 
 We conducted comparative evaluations using BERT, ALBERT, and DistilBERT, along with SWIFT, on a standard news classification dataset. Despite the advancements in these pre-trained models, SWIFT outperforms them significantly in news classification tasks.
@@ -42,16 +42,16 @@ We conducted comparative evaluations using BERT, ALBERT, and DistilBERT, along w
 | DistilBERT | Sanh et al. (2019)    | 94.23% | 0.4 | 94.3 | 93.9 | 94.0 |
 | **SWIFT**  | -                       | **96.19%** | **0.2** | **98.9** | **98.5** | **98.6** |
 
-![Precision Comparative Graph](images/charts/PrecisionComparison.png)
+![Precision Comparative Graph](images/Charts/PrecisionComparison.png)
 *Fig. 6: Precision Comparative Graph*
 
-![Recall Comparative Graph](images/charts/RecallComparison.png)
+![Recall Comparative Graph](images/Charts/RecallComparison.png)
 *Fig. 7: Recall Comparative Graph*
 
-![F1 Score Comparative Graph](images/charts/F1ScoreComparison.png)
+![F1 Score Comparative Graph](images/Charts/F1ScoreComparison.png)
 *Fig. 8: F1 Score Comparative Graph*
 
-![Accuracy Comparative Graph](images/charts/AccuracyComparison.png)
+![Accuracy Comparative Graph](images/Charts/AccuracyComparison.png)
 *Fig. 9: Accuracy Comparative Graph*
 
 ## Discussion
