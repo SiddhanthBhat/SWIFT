@@ -1,3 +1,5 @@
+### **Published: IEEE Asian conference on Intelligent Technologies**
+
 # Abstract
 In the current era of online publication, the publication rate of online news articles has grown exponentially. The classification of news articles is crucial for easier comprehension of online content. Without proper categorization, readers often struggle to navigate through the vast amounts of news available to them. This paper is devoted to the single-label semantic classification on the combined dataset of BBC All Time and Reuters News. We conducted comparative analyses between SWIFT and established models such as BERT, alBERT, and DistilBERT. Our experiments demonstrate that SWIFT surpasses these generic models on our English News Dataset, yielding superior classification performance, particularly in the categorization of news titles. Comparison with the state-of-the-art research shows we can consider SWIFT as a baseline for future investigations of analysis of news datasets.
 
